@@ -6,6 +6,10 @@
     <br>
 
 
+     <label for="name"><b>name</b></label>
+    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br>
+
     <label for="name"><b>Email</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
